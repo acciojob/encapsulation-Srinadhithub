@@ -1,8 +1,10 @@
 package com.driver;
 
 public class Main {
+  public static  void main(String args[]){
+
   RWOnly rw= new RWOnly();
-  re.setNmae("srinadh");
+  rw.setNmae("srinadh");
   System.out.println(rw.getName());
   
-}
+}}
