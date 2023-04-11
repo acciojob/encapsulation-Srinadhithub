@@ -5,7 +5,7 @@ public class RWOnly {
    public String getName(){
        return Name;
 }
-public void setNmae(String name){
+public void setName(String name){
     this.Name=name;
 }
 }
